@@ -1,0 +1,18 @@
+body{
+    align-items: center;
+    background-color: lightyellow;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.calculator{
+    background-color: lightblue;
+    width: 45%;
+    padding: 30px;
+    border-radius: 30px;
+    
+}
+
+img{
+    width: 30%;
+    
+}
